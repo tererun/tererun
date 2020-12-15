@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey guys!
 
-<!--
-**tererun/tererun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+「楽しく、簡単に、やりたいことを実現。」
+何時もコードを書き続けている高校生よわよわプログラマーてれるんと申します。
+以後お見知りおきを。
 
-Here are some ideas to get you started:
+## Works
+ - Plugins
+   - [PlayerDelivery](https://tererun.booth.pm/items/1921395)
+   - [EasyShopBlock](https://tererun.booth.pm/items/2269319)
+   - [JoinBook](https://www.spigotmc.org/resources/joinbook.74367/)
+   - [Prone](https://www.spigotmc.org/resources/prone.82869/)
+   - [SayDel](https://www.spigotmc.org/resources/saydel.76745/)
+   - [SimpleVanish](https://www.spigotmc.org/resources/simplevanish.76744/)
+   - For other plugins, please check the repository.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Others
+  - Twitter
+    - [@tererun1](https://twitter.com/tererun1)
+  - Discord
+    - てれるん#9900
