@@ -5,7 +5,6 @@
 以後お見知りおきを。
 
 ![](https://github-readme-stats.vercel.app/api?username=tererun&show_icons=true&theme=react)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tererun&theme=react)
 
 ## Works
  - Plugins
