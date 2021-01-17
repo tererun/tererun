@@ -4,7 +4,7 @@
 何時もコードを書き続けている高校生よわよわプログラマーてれるんと申します。
 以後お見知りおきを。
 
-![](https://github-readme-stats.vercel.app/api?username=tererun&show_icons=true&theme=ue-dark)
+![](https://github-readme-stats.vercel.app/api?username=tererun&show_icons=true&theme=vue-dark)
 
 ## Works
  - Plugins
