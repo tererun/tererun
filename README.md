@@ -12,12 +12,9 @@
  - Plugins
    - [HyperCrate](https://www.spigotmc.org/resources/hypercrate.87060/)
    - [PlayerDelivery](https://tererun.booth.pm/items/1921395)
-   - [EasyShopBlock](https://tererun.booth.pm/items/2269319)
    - [JoinBook](https://www.spigotmc.org/resources/joinbook.74367/)
-   - [Prone](https://www.spigotmc.org/resources/prone.82869/)
-   - [SayDel](https://www.spigotmc.org/resources/saydel.76745/)
    - [SimpleVanish](https://www.spigotmc.org/resources/simplevanish.76744/)
-   - For other plugins, please check the repository.
+   - etc...
 
 ## Others
   - Twitter
