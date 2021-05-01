@@ -1,3 +1,7 @@
+<p class="profile-img" align="center">
+ <img src="" width=128>
+</p>
+
 # Hey guys!
 
 「楽しく、簡単に、やりたいことを実現。」
@@ -5,6 +9,8 @@
 以後お見知りおきを。
 
 ![](https://github-readme-stats.vercel.app/api?username=tererun&show_icons=true&theme=react) 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G73QT39)
 
 ## Works
  - Organisation
