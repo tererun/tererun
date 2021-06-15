@@ -1,5 +1,5 @@
 <p class="profile-img" align="center">
- <img src="sec_1.svg" width=800>
+ <img src="github_profile.png" width=800>
 </p>
 
 # Hey guys!
