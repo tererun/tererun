@@ -8,8 +8,6 @@
 何時もコードを書き続けている高校生よわよわプログラマーてれるんと申します。
 以後お見知りおきを。
 
-![](https://github-readme-stats.vercel.app/api?username=tererun&show_icons=true&theme=react) 
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G73QT39)
 
 ## Works
