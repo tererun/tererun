@@ -14,7 +14,7 @@
 ## Works
  - Organisation
    - [FREESERVER Project](https://freeserver.pro)
-   - [いぬたぬきクリエイティブアカデミア](https://inu-dev.tech/)
+   - [いぬたぬきクリエイティブアカデミア](https://www.inu-dev.tech/)
    - [プラ塾](https://purajuku.dev/)
  - Plugins
    - [HyperCrate](https://www.spigotmc.org/resources/hypercrate.87060/)
