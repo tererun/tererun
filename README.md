@@ -27,4 +27,4 @@
   - Twitter
     - [@tererun1](https://twitter.com/tererun1)
   - Discord
-    - [tererun/てれるん#9900](https://discord.com/users/292431056135782402/)
+    - [@tererun](https://discord.com/users/292431056135782402/)
