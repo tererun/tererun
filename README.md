@@ -2,18 +2,18 @@
  <img src="github_profile.png" width=800>
 </p>
 
-# Hey guys!
+# 👋 Hello
 
-「作りたいものを、好きなだけ。」
+コードを書き続けているプログラマーです。デザインなんかもやったりします。
 
-何時もコードを書き続けている高校生よわよわプログラマーてれるんと申します。
-以後お見知りおきを。
+作りたいものを作っています。以後お見知りおきを。
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G73QT39)
 
 ## Works
  - Organisation
    - [FREESERVER Project](https://freeserver.pro)
+   - [Tobiratory](https://twitter.com/Tobiratory)
    - [いぬたぬきクリエイティブアカデミア](https://www.inu-dev.tech/)
    - [プラ塾](https://purajuku.dev/)
  - Plugins
@@ -27,4 +27,4 @@
   - Twitter
     - [@tererun1](https://twitter.com/tererun1)
   - Discord
-    - てれるん#9900
+    - [tererun/てれるん#9900](https://discord.com/users/292431056135782402/)
