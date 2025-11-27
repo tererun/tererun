@@ -8,6 +8,8 @@
 
 作りたいものを作っています。以後お見知りおきを。
 
+[tere.run](https://tere.run/)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G73QT39)
 
 ## Works
